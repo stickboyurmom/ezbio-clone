@@ -7,7 +7,7 @@ import insta from './images/insta.png';
 import yt from './images/yt.png';
 import discord from './images/discord.png';
 import cover from './images/cover.png';
-import stop from './song/stopplayin.mp3';
+import stop from './song/kaoruwaguri2.mp3';
 import bg from './videos/kaoruwaguri2.mp4';
 import git from './images/git2.png';
 
